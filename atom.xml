@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>12班纪念网站</title>
+  
+  <subtitle>致永远的12班</subtitle>
+  <link href="http://lkhsss.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://lkhsss.github.io/"/>
+  <updated>2022-05-03T14:26:12.243Z</updated>
+  <id>http://lkhsss.github.io/</id>
+  
+  <author>
+    <name>Lkh</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>致任老师</title>
+    <link href="http://lkhsss.github.io/2022/05/01/zhi-ren-lao-shi/"/>
+    <id>http://lkhsss.github.io/2022/05/01/zhi-ren-lao-shi/</id>
+    <published>2022-05-01T06:19:43.000Z</published>
+    <updated>2022-05-03T14:26:12.243Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;作者：LYM&quot;&gt;&lt;a href=&quot;#作者：LYM&quot; class=&quot;headerlink&quot; title=&quot;作者：LYM&quot;&gt;&lt;/a&gt;作者：LYM&lt;/h1&gt;&lt;video id=&quot;video&quot; controls=&quot;&quot; preload=&quot;auto&quot; poster=&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="http://lkhsss.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    
+    <category term="告白" scheme="http://lkhsss.github.io/tags/%E5%91%8A%E7%99%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更新日志</title>
+    <link href="http://lkhsss.github.io/2022/04/29/geng-xin-ri-zhi/"/>
+    <id>http://lkhsss.github.io/2022/04/29/geng-xin-ri-zhi/</id>
+    <published>2022-04-29T13:35:00.000Z</published>
+    <updated>2022-05-03T14:55:27.954Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;1-0-0版本&quot;&gt;&lt;a href=&quot;#1-0-0版本&quot; class=&quot;headerlink&quot; title=&quot;1.0.0版本&quot;&gt;&lt;/a&gt;1.0.0版本&lt;/h1&gt;&lt;p&gt;2022.4.29&lt;/p&gt;
+&lt;h3 id=&quot;创建网站&quot;&gt;&lt;a href=&quot;#创建网站&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="公告" scheme="http://lkhsss.github.io/categories/%E5%85%AC%E5%91%8A/"/>
+    
+    
+    <category term="日志" scheme="http://lkhsss.github.io/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+</feed>
